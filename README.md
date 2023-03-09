@@ -1,7 +1,5 @@
 <html>
-<head>
 
-    </head>
 <body>
     <head>
 <center><h1 style="background-color:DodgerBlue;"><em><strong>
