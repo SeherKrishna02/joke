@@ -1,12 +1,9 @@
 <html>
 <head>
-
-</head>
 <title> Page Title </title>
+    </head>
 <body>
-    
-<head>
-
+    <head>
 <center><h1 style="background-color:DodgerBlue;"><em><strong>
     Blew 
     </strong></em>&#128523; </h1></center>
